@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "hospital-app",
+    "slug": "snack-281ee3cf-ea1d-4682-821e-d2bfa3f2d798",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.g.jahnavi.snack281ee3cfea1d4682821ed2bfa3f2d798"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "77bd4a5f-c3b7-4d4f-aa46-a4ab9eb8098a"
+      }
+    }
+  }
+}
